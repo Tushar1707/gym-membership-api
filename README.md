@@ -112,10 +112,5 @@ Server will start at `http://localhost:5000`
 
 ## 👨‍💻 Contributors
 
-- 💡 Project built by [Your Name]
+- 💡 Project built by Tushar Solanki
 
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
